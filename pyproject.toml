@@ -1,0 +1,18 @@
+[project]
+name = "fractionalindex"
+version = "0.0.1"
+description = "Fractional index library with multiple backends"
+authors = [{name="Some Body"}]
+dependencies = [
+  "sortedcontainers",
+  "fractional_indexing"
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
