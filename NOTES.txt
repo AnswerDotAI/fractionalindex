@@ -1,2 +1,0 @@
-All done! Run 'pip install .' or 'pip install -e .' then 'pytest' to test.
-Then use 'twine upload dist/*' to release.
