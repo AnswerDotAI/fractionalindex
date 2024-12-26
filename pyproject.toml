@@ -7,7 +7,7 @@ description = "Fractional index library with multiple backends"
 authors = [{name="Jeremy Howard"}]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: Apache 2 License",
+    "License :: OSI Approved :: Apache-2.0 License",
     "Operating System :: OS Independent",
 ]
 dependencies = [
