@@ -1,6 +1,6 @@
 [project]
 name = "fractionalindex"
-version = "0.0.2"
+version = "0.0.3"
 requires-python = ">=3.9"
 readme = "README.md"
 description = "Fractional index library with multiple backends"
