@@ -1,1 +1,4 @@
-__all__ = ["FractionalIndex","FileIndex","SqliteIndex"]
+from .fractionalindex import SqliteIndexer, FileIndexer
+
+__all__ = ["SqliteIndexer","FileIndexer"]
+           
